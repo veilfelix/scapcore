@@ -134,7 +134,6 @@ Below is a list of useful commands to run, test, and validate the project during
 │   ├── pages/                              # Next.js route pages (automatically routed)
 │   │   ├── _app.tsx                        # Global layout and providers
 │   │   ├── _document.tsx                   # Custom HTML structure, <html lang="..."> etc.
-│   │   ├── [slug].tsx                      # Dynamic page route for CMS-driven content (e.g., About Us, Services)
 │   │   ├── 404.tsx                         # Custom Not Found page
 │   │   ├── 500.tsx                         # Custom Error page
 │   │   ├── index.tsx                       # Homepage route (/)
@@ -159,3 +158,17 @@ Below is a list of useful commands to run, test, and validate the project during
 ├── package.json                            # Project scripts and dependencies
 ├── README.md                               # You’re reading it 😉
 ```
+
+## Contributing
+
+This project is publicly available for learning and reuse.
+
+However, I am **not accepting pull requests or external contributions** at this time.  
+If you'd like to use this project, feel free to fork it and adapt it to your own needs.
+
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
+
+You are free to use, copy, modify, and distribute this code in your own projects — even for commercial use — as long as you include the original license.

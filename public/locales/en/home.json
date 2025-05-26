@@ -1,0 +1,15 @@
+{
+  "hero": {
+    "title": "Welcome to ScapCore",
+    "subtitle": "A CMS-agnostic starter kit to build websites using Next.js 13 with the Pages Router, TypeScript, Storybook, and Jest.",
+    "cta": "Open Dialog"
+  },
+  "modal": {
+    "title": "Very Useful Placeholders S01 E01: Dialog",
+    "description": "Do you want to close the Dialog?",
+    "confirm": "Yes, of course",
+    "cancel": "No",
+    "switchLabel": "If so, you must turn this switch on!",
+    "afterSwitch": "You trusted me? 🤡 Now turn it off"
+  }
+}

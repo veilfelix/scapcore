@@ -1,0 +1,15 @@
+{
+  "hero": {
+    "title": "Bienvenue dans ScapCore",
+    "subtitle": "Un kit de démarrage CMS-agnostique pour construire des sites web en utilisant Next.js 13 avec le Pages Router, TypeScript, Storybook, et Jest.",
+    "cta": "Ouvrir le dialogue"
+  },
+  "modal": {
+    "title": "Placeholders très utiles S01 E01 : Dialogue",
+    "description": "Voulez-vous fermer le dialogue ?",
+    "confirm": "Oui, bien sûr",
+    "cancel": "Non",
+    "switchLabel": "Dans ce cas, vous devez activer ce commutateur !",
+    "afterSwitch": "Vous m'avez fait confiance ? 🤡 Maintenant désactivez-le"
+  }
+}

@@ -1,0 +1,19 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+echo "🔄 Generating i18n namespaces..."
+node scripts/generate-default-namespaces.js
+
+echo "🧼 Running ESLint..."
+npm run lint || exit 1
+
+echo "🔎 Type-checking with TypeScript..."
+npm run typecheck || exit 1
+
+echo "🔍 Validating use-client annotations..."
+node scripts/lint-use-client.js || exit 1
+
+echo "🧪 Running tests..."
+npm run test || exit 1
+
+echo "✅ Pre-commit checks passed"

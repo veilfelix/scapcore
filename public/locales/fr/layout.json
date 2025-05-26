@@ -1,0 +1,13 @@
+{
+  "header": {
+    "siteTitle": "ScapCore",
+    "nav": {
+      "services": "Services",
+      "blog": "Blog",
+      "contact": "Contact"
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} ScapCore. Tous droits réservés."
+  }
+}

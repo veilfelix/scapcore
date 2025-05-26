@@ -1,0 +1,19 @@
+{
+  "siteName": "ScapCore - Agnostic Starter Kit",
+  "slugs": {
+    "about": "À propos",
+    "contact": "Contact"
+  },
+  "language": {
+    "fr": "Français",
+    "en": "Anglais",
+    "switch": "Changer de langue"
+  },
+  "meta": {
+    "home": {
+      "title": "ScapCore",
+      "description": "Un kit de démarrage CMS-agnostique pour construire des sites web en utilisant Next.js 13 avec le Pages Router, TypeScript, Storybook, et Jest."
+
+    }
+  }
+}

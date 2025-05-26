@@ -1,0 +1,18 @@
+{
+  "siteName": "ScapCore",
+  "slugs": {
+    "about": "About",
+    "contact": "Contact"
+  },
+  "language": {
+    "fr": "Français",
+    "en": "English",
+    "switch": "Changer language"
+  },
+  "meta": {
+    "home": {
+      "title": "ScapCore", 
+      "description": "A CMS-agnostic starter kit to build websites using Next.js 13 with the Pages Router, TypeScript, Storybook, and Jest."
+    }
+  }
+}
